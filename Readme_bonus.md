@@ -6,3 +6,4 @@ Student list Top_candidates_course:
 -Carlos
 -Cesar
 -Felipe 
+- Juan
